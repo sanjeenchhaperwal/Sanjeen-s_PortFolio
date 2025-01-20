@@ -813,10 +813,6 @@ video {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
 }
 
-.bg-gradient-to-t {
-  background-image: linear-gradient(to top, var(--tw-gradient-stops));
-}
-
 .from-icon-color-bg {
   --tw-gradient-from: #19376D var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(25 55 109 / 0) var(--tw-gradient-to-position);
